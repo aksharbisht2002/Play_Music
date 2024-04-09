@@ -4,7 +4,7 @@ This Android application allows users to search for and play songs stored on the
 
 ## Tools and Languages Used
 - Android Studio
-- Java
+- Kotlin
 - XML
 - SQL for local database management
 
